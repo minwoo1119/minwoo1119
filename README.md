@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KIT<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Flutter<br>💬 Ask me about Front-End<br>
+🔭 I’m currently Studing in KIT<br>🤝 I’m looking for help about ML/DL <br>🌱 I’m currently learning Flutter & Web Front-End<br>💬 Ask me about Front-End<br>
 
 
 ## 🌐 Socials:
