@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=4451fd&height=120&text=sksmsalsndi&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 네. 이상한 고집불통입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 고집도 있고 여러분야에 관심도 많은 개발자입니다.</li>React 공부 중이며, 앱 프론트 개발에도 관심이 있습니다.</li></li>추가적으로 ML/DL 공부 중입니다. </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙋 Introduce Myself </h2> <br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">프론트엔드 개발자입니다.</li>React 공부 중이며, 앱 프론트 개발에도 관심이 있습니다.</li></li>추가적으로 ML/DL 공부 중입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
