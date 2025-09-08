@@ -1,95 +1,51 @@
-<h1 align="center">✨ 호기심 많은 개발자, 이민우 ✨</h1>
+# About Me  
+기록으로 성장하는 개발자, 이민우입니다.  
 
-<div align="center">
-  <img height="280" src="https://www.2cpu.co.kr/data/froala/QnA/230825/230825_QnA_759db5252e46af51d9d7ab2d15dc92c767598b8a.jpg" />
-</div>
+## Introduce  
+안녕하세요, 주니어 개발자 이민우입니다.  
+결과도 중요하지만 과정에서 얻는 배움 또한 중요하다고 생각합니다.  
+'안되는 건 없다. 단지 개발자들이 귀찮아질 뿐'이라는 가치관으로 임합니다.  
+새로운 것에 호기심을 가지고 도전하며,  
+소통과 협업을 통해 함께 성장하는 개발자가 되고자 합니다.  
+사용자의 편리함과 효율적인 해결 방안을 추구합니다.  
 
----
+## Contact  
+- Email: minwoo1119@gmail.com  
+- Blog: [https://ramivo.tistory.com](https://ramivo.tistory.com)  
+- GitHub: [https://github.com/minwoo1119](https://github.com/minwoo1119)  
 
-<div align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" /></a>
-</div>
+## Tech Stack  
 
----
+### Frontend  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>  
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/minwoo1119" width="600" height="280"/>
-</a>
+### Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=minwoo1119.minwoo1119" />
-</div>
+### Data & AI  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>  
 
----
+### DevOps & Tools  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"/>  
 
-## 👤 About Me
-
-> “안되는 건 없다. 단지 개발자들이 귀찮아질 뿐.”
-
-- 대학 3학년 재학 중  
-- 웹 프론트엔드를 메인으로, 데이터 분석 · 백엔드 · 앱 개발까지 다양한 분야에 관심  
-- 새로운 플랫폼을 창작하고 만드는 과정에 애정이 많음  
-
----
-
-## 🖥️ Frontend Tools  
-> 프론트엔드를 메인으로 하기에 제일 자신 있어요!
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO"/>
-</div>
-
----
-
-## ⚙️ Backend Tools  
-> 배우는 중이라 아직 미숙하지만, 성장 중이에요!
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS"/>
-</div>
-
----
-
-## 📊 Data Engineering Tools  
-> 데이터 분석 및 모델 구현 경험이 있으며, ML/DL 스터디 경험도 있습니다.
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-</div>
-
----
-
-## 🎨 Other Tools  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
-</div>
-
----
-
-## 📈 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=minwoo1119&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak"/>
-</div>
+### Collaboration  
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>  
