@@ -10,7 +10,7 @@
 사용자의 편리함과 효율적인 해결 방안을 추구합니다.  
 
 ## Contact  
-- Email: minwoo1119@gmail.com  
+- Email: minwoo1119@naver.com  
 - Blog: [https://lmw1119.tistory.com/](https://lmw1119.tistory.com/)  
 - GitHub: [https://github.com/minwoo1119](https://github.com/minwoo1119)  
 
