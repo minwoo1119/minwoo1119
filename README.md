@@ -15,6 +15,15 @@
 </div>
 
 ###
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minwoo1119"
+  width="600"
+  height="300"
+/>
+</a>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=minwoo1119.minwoo1119&"  />
@@ -26,7 +35,7 @@
 
 ###
 
-<p align="left">안되는 건 없다. 단지 개발자들이 귀찮아질 뿐<br><br>- 🔭 대학 3학년 재학 중이에요.<br>- 📚 웹 프론트엔드를 메인으로, 데이터 분석, 백엔드, 앱 개발까지 다양한 분야에 관심이 있어요.<br>- ⚡ 새로운 플랫폼을 창작할 수 있는 개발을 굉장히 애정해요.</p>
+<p align="left">안되는 건 없다. 단지 개발자들이 귀찮아질 뿐<br><br>- 대학 3학년 재학 중이에요.<br>- 웹 프론트엔드를 메인으로, 데이터 분석, 백엔드, 앱 개발까지 다양한 분야에 관심이 있어요.<br>- 새로운 플랫폼을 창작할 수 있는 개발을 굉장히 애정해요.</p>
 
 ###
 
@@ -120,3 +129,5 @@
 </div>
 
 ###
+
+
