@@ -1,6 +1,5 @@
 # About Me  
 열정가득 낭만가, 이민우입니다.
-<img src="https://github.com/user-attachments/assets/8e5b1fb9-ccd2-4b3b-b1be-2f0bb84ebbe9" width="300"/>
 
 ## Introduce  
 안녕하세요, 주니어 개발자 이민우입니다.  
