@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 FrontEnd tools</h3>
+<h3 align="left">FrontEnd tools</h3>
 <p>프론트엔드를 메인으로 하기에 제일 자신 있어요!</p>
 
 ###
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛠 Backend tools</h3>
+<h3 align="left">Backend tools</h3>
 <p>백엔드 기술은 배워가는 중이에요. 많이 미숙할 수 있어요!</p>
 
 ###
@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="left">🛠 Data Engineering tools</h3>
+<h3 align="left">Data Engineering tools</h3>
 <p>데이터 분석 및 모델 구현 경험이 존재해요. ML/DL 스터디도 진행했어서 조금의 지식을 가지고 있어요!</p>
 
 ###
@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="left">🛠 Other tools</h3>
+<h3 align="left">Other tools</h3>
 
 ###
 
@@ -120,7 +120,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
