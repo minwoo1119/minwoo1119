@@ -1,6 +1,14 @@
 # About Me  
 열정가득 낭만가, 이민우입니다.
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minwoo1119"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## Introduce  
 안녕하세요, 주니어 개발자 이민우입니다.  
 결과도 중요하지만 과정에서 얻는 배움 또한 중요하다고 생각합니다.  
