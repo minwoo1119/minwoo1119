@@ -14,7 +14,7 @@
 
 단순히 기능을 구현하는 것을 넘어, **데이터에 기반한 문제 해결**과 **사용자 경험(UX) 고도화**를 통해 실질적인 성과를 만들어내는 데 집중합니다. '안되는 건 없다. 귀찮을 뿐'이라는 가치관으로, 기획부터 배포까지 주도적으로 수행하며 서비스를 완성해 나갑니다.
 
-### 🏆 Key Achievements
+### Key Achievements
 - **한국정보기술학회(KIIT) 대학생논문경진대회 은상** (저속노화 LLM 파인튜닝)
 - **KCI 등재 학술지 논문 게재** (Chrip-aid 프로젝트)
 - **교내 동아리 지원자 160% 증대** (JoinUs 인터랙티브 웹)
@@ -42,7 +42,7 @@
 ### Collaboration & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📱 금품타 (Geumpumta)
 > **대학생 학습 시간 기록 & 실시간 랭킹 경쟁 모바일 플랫폼**
@@ -53,7 +53,7 @@
   - 서버 Heartbeat API와 오프셋 보정을 통한 **고신뢰성 타이머 구현** (백그라운드 시간 누락 방지)
   - Flutter WebAuth2 및 Deep Link를 활용한 소셜 로그인 최적화
 
-### 🌏 JobForeigner (잡포리너)
+### JobForeigner (잡포리너)
 > **다국어 지원 & 지도 기반 외국인 전용 구인구직 웹 서비스**
 - **Role**: Frontend Developer (React)
 - **Tech**: React, TypeScript, TanStack Query, i18next, Kakao Map API
@@ -62,7 +62,7 @@
   - Kakao Map API 커스텀 오버레이를 활용한 직관적인 기업 위치 시각화
   - TanStack Query를 활용한 서버 상태 관리 및 캐싱 최적화
 
-### 🤝 JoinUs (조이너스)
+### JoinUs (조이너스)
 > **MBTI 형식의 인터랙티브 동아리 트랙 추천 서비스**
 - **Role**: Lead Frontend Developer
 - **Tech**: React, TypeScript, Tailwind CSS
@@ -70,7 +70,7 @@
   - 인터랙티브 콘텐츠 기획 및 구현으로 **전년 대비 지원자 160% (50명) 증가**
   - 모바일/데스크탑 반응형 UI 설계 및 트랙 매칭 알고리즘 구현
 
-### 🧠 LLM Fine-tuning for Low-Velocity Aging
+### LLM Fine-tuning for Low-Velocity Aging
 > **저속노화 지식 기반 Gemma 모델 파인튜닝 프로젝트**
 - **Role**: AI Researcher
 - **Tech**: Python, Gemma, Unsloth, LoRA
