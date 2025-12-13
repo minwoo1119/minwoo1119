@@ -17,7 +17,7 @@
 - **한국정보기술학회(KIIT) 대학생논문경진대회 은상** (저속노화 LLM 파인튜닝)
 - **KCI 등재 학술지 논문 게재** (Chrip-aid 프로젝트)
 - **교내 동아리 지원자 160% 증대** (JoinUs 인터랙티브 웹)
-- **Google Play & App Store 양대 마켓 배포** (금품타, End-to-End 개발)
+- **Google Play & App Store 양대 마켓 배포 경험** (금품타)
 
 ## Contact
 - **Email**: minwoo1119@naver.com
@@ -43,7 +43,7 @@
 
 ## Featured Projects
 
-### 📱 금품타 (Geumpumta)
+### 금품타 (Geumpumta)
 > **대학생 학습 시간 기록 & 실시간 랭킹 경쟁 모바일 플랫폼**
 - **Role**: Mobile App Developer (Flutter)
 - **Tech**: Flutter, Riverpod, MVVM, Dio, OAuth 2.0
