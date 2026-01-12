@@ -1,4 +1,4 @@
-# 사용자 경험 최적화와 비즈니스 임팩트를 연결하는 개발자, 이민우입니다.
+# 데이터의 흐름과 사용자 경험을 연결하는 프론트엔드 개발자, 이민우입니다
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
 <img
