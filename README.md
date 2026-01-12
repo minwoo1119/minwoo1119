@@ -14,6 +14,7 @@
 단순히 기능을 구현하는 것을 넘어, **데이터에 기반한 문제 해결**과 **사용자 경험(UX) 고도화**를 통해 실질적인 성과를 만들어내는 데 집중합니다. '안되는 건 없다. 귀찮을 뿐'이라는 가치관으로, 기획부터 배포까지 주도적으로 수행하며 서비스를 완성해 나갑니다.
 
 ### Key Achievements
+- **웹, 크로스플랫폼 앱, LLM**까지 다양한 프로젝트 경험
 - **한국정보기술학회(KIIT) 대학생논문경진대회 은상** (저속노화 LLM 파인튜닝)
 - **KCI 등재 학술지 논문 게재** (Chrip-aid 프로젝트)
 - **교내 동아리 지원자 160% 증대** (JoinUs 인터랙티브 웹)
@@ -35,11 +36,6 @@
 ### AI & Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
-### Backend & Infrastructure
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-
-### Collaboration & Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
 ## Featured Projects
 
