@@ -1,4 +1,4 @@
-# 데이터의 흐름과 사용자 경험을 연결하는 프론트엔드 개발자, 이민우입니다
+# 데이터의 흐름과 사용자 경험을 연결하는 개발자, 이민우입니다
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
 <img
@@ -9,16 +9,24 @@
 </a>
 
 ## Introduce
-안녕하세요! **React, TypeScript** 기반의 웹 프론트엔드를 메인으로 공부하고 있으며, **Flutter, React Native**를 활용한 모바일 앱 개발도 공부하고 있는 개발자 이민우입니다.
+안녕하세요! **React, TypeScript** 기반의 웹 프론트엔드를 중심으로 개발하고 있으며, **Flutter, React Native**를 활용한 모바일 앱 개발에도 관심을 가지고 확장하고 있는 개발자 이민우입니다.
 
-단순히 기능을 구현하는 것을 넘어, **데이터에 기반한 문제 해결**과 **사용자 경험(UX) 고도화**를 통해 실질적인 성과를 만들어내는 데 집중합니다. '안되는 건 없다. 귀찮을 뿐'이라는 가치관으로, 기획부터 배포까지 주도적으로 수행하며 서비스를 완성해 나갑니다.
+저는 단순히 화면을 구현하는 데 그치지 않고, **데이터 구조와 서비스 흐름을 이해한 뒤 사용자 경험으로 연결하는 개발**을 지향합니다.  
+상태 관리, API 연동, 반응형 UI, 운영 관점의 구조 설계는 물론, 데이터 분석·AI·시스템 구현 경험까지 바탕으로 **문제를 끝까지 해결하는 개발자**가 되고자 합니다.
+
+기획부터 구현, 리팩토링, 배포까지 직접 경험하며  
+“사용자에게는 더 자연스럽게, 개발자에게는 더 유지보수 가능하게” 만드는 과정에 집중해왔습니다.
 
 ### Key Achievements
-- **웹, 크로스플랫폼 앱, LLM**까지 다양한 프로젝트 경험
-- **한국정보기술학회(KIIT) 대학생논문경진대회 은상** (저속노화 LLM 파인튜닝)
-- **KCI 등재 학술지 논문 게재** (Chrip-aid 프로젝트)
-- **교내 동아리 지원자 160% 증대** (JoinUs 인터랙티브 웹)
-- **Google Play & App Store 양대 마켓 배포 경험** (금품타)
+- **웹, 모바일 앱, AI/데이터 프로젝트** 전반에 걸친 실전 개발 경험
+- **한국정보기술학회(KIIT) 대학생논문경진대회 은상** 수상  
+  (저속노화 도메인 특화 LLM 파인튜닝 프로젝트)
+- **KCI 등재 학술지 논문 게재**  
+  (Chrip-aid 프로젝트)
+- **교내 동아리 지원자 수 전년 대비 약 160% 증가**  
+  (JoinUs 인터랙티브 웹 서비스)
+- **Google Play / App Store 양대 마켓 배포 경험**  
+  (금품타 프로젝트)
 
 ## Contact
 - **Email**: minwoo1119@naver.com
@@ -36,42 +44,47 @@
 ### AI & Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
-
 ## Featured Projects
 
 ### 금품타 (Geumpumta)
-> **대학생 학습 시간 기록 & 실시간 랭킹 경쟁 모바일 플랫폼**
+> **대학생 학습 시간 기록 및 랭킹 기반 동기부여 모바일 플랫폼**
 - **Role**: Mobile App Developer (Flutter)
-- **Tech**: Flutter, Riverpod, MVVM, Dio, OAuth 2.0
+- **Tech**: Flutter, Dart, Riverpod, MVVM, Dio, Retrofit, OAuth 2.0
 - **Impact**:
-  - **Google Play & App Store 양대 마켓 배포 (End-to-End)**
-  - 서버 Heartbeat API와 오프셋 보정을 통한 **고신뢰성 타이머 구현** (백그라운드 시간 누락 방지)
-  - Flutter WebAuth2 및 Deep Link를 활용한 소셜 로그인 최적화
+  - **Google Play & App Store 양대 마켓 배포 경험**
+  - 학습 시간 측정, 랭킹, 마이페이지, 시즌제 경쟁 기능 등 핵심 화면 및 로직 구현
+  - 학교 Wi-Fi(Gateway IP) 기반 인증 로직과 타이머 정확도 보정 구조를 적용해 **학습 기록의 신뢰성 개선**
+  - iOS Screen Time API, 소셜 로그인, FCM 연동 등 실사용 중심 기능 구현
 
-### JobForeigner (잡포리너)
-> **다국어 지원 & 지도 기반 외국인 전용 구인구직 웹 서비스**
+### JobTalk (잡톡)
+> **다국어 지원 및 지도 기반 외국인 대상 구인구직·커뮤니티 웹 서비스**
 - **Role**: Frontend Developer (React)
-- **Tech**: React, TypeScript, TanStack Query, i18next, Kakao Map API
+- **Tech**: React, TypeScript, TanStack Query, Zustand, i18next, Kakao Map API
 - **Impact**:
-  - **i18n 다국어 시스템 구축**으로 외국인 사용자 접근성 개선
-  - Kakao Map API 커스텀 오버레이를 활용한 직관적인 기업 위치 시각화
-  - TanStack Query를 활용한 서버 상태 관리 및 캐싱 최적화
+  - 채용 공고, 기업 정보, 커뮤니티 핵심 페이지를 구현하며 서비스 전반의 프론트엔드 구조 설계
+  - **TanStack Query + Zustand** 조합으로 서버 상태와 클라이언트 상태를 분리해 유지보수성 향상
+  - **i18n 기반 다국어 UI**와 지도 기반 기업 탐색 기능을 구현해 사용자 접근성 개선
+  - 공동 개발자 이탈 이후에도 프론트엔드 구조를 유지·리팩토링하며 서비스 지속 가능성 확보
 
 ### JoinUs (조이너스)
-> **MBTI 형식의 인터랙티브 동아리 트랙 추천 서비스**
+> **사용자 참여형 동아리 트랙 추천 인터랙티브 웹 서비스**
 - **Role**: Lead Frontend Developer
 - **Tech**: React, TypeScript, Tailwind CSS
 - **Impact**:
-  - 인터랙티브 콘텐츠 기획 및 구현으로 **전년 대비 지원자 160% (50명) 증가**
-  - 모바일/데스크탑 반응형 UI 설계 및 트랙 매칭 알고리즘 구현
+  - 질문 응답 기반 트랙 추천 로직과 UI 흐름을 설계해 박람회 현장용 체험형 서비스 구현
+  - 모바일·태블릿 환경을 고려한 반응형 UI/UX 설계
+  - 서비스 도입 후 **동아리 지원자 수 전년 대비 약 160% 증가**
+  - 짧은 체험 시간 안에 결과를 빠르게 확인할 수 있도록 인터랙션과 사용자 흐름 최적화
 
 ### LLM Fine-tuning for Low-Velocity Aging
-> **저속노화 지식 기반 Gemma 모델 파인튜닝 프로젝트**
+> **저속노화 도메인 특화 질의응답 시스템을 위한 Gemma 기반 LLM 파인튜닝 프로젝트**
 - **Role**: AI Researcher
 - **Tech**: Python, Gemma, Unsloth, LoRA
 - **Impact**:
-  - **한국정보기술학회 대학생논문경진대회 은상 수상**
-  - 웹 크롤링/PDF 분석을 통한 도메인 특화 데이터셋 구축 및 Unsloth 기반 경량화 학습
+  - 웹 기사·PDF 매거진 기반 비정형 데이터를 수집·정제해 **도메인 특화 Q&A 데이터셋 구축**
+  - Unsloth 기반 Gemma 모델에 **LoRA 경량 파인튜닝**을 적용해 제한된 GPU 환경에서도 학습 가능하도록 최적화
+  - **30명 대상 블라인드 평가 및 할루시네이션 분석**으로 성능 검증
+  - **한국정보기술학회(KIIT) 대학생논문경진대회 은상 수상**
 
 <br/>
 
