@@ -2,10 +2,10 @@
 
 # Hi, I'm Minwoo Lee
 
-### Software Engineer · Frontend · Backend · AI · Vision SW
+### Computer Vision & Image Processing Engineer
 
-웹과 모바일 서비스부터 AI, 산업용 Vision SW까지 직접 구현하며  
-**문제를 구조적으로 이해하고 안정적인 소프트웨어로 연결하는 개발자**입니다.
+전통적 영상처리 알고리즘과 최신 AI/딥러닝을 결합하여  
+**산업용 비전 검사 시스템 및 고성능 분석 솔루션을 구현하는 개발자**입니다.
 
 <p>
   <a href="mailto:minwoo1119@naver.com">
@@ -25,15 +25,14 @@
 
 ## About Me
 
-컴퓨터공학을 전공하며 **Frontend, Backend, AI, Vision SW**를 폭넓게 경험했습니다.
+컴퓨터공학을 전공하고 현재 **Vision SW Researcher**로 근무하며 산업용 비전 검사 소프트웨어 및 자동화 솔루션을 개발하고 있습니다.
 
-현재는 **Vision SW Researcher**로 근무하며 산업용 비전 검사 소프트웨어와 자동화 시스템을 개발하고 있습니다. 단순히 화면이나 기능 하나를 구현하는 데 그치지 않고, 사용자 경험과 데이터 흐름, 모델 추론, 운영 환경이 하나의 시스템 안에서 안정적으로 연결되도록 설계하는 개발을 지향합니다.
+단순한 알고리즘 구현을 넘어 **C++(MFC)·C#(WPF) 기반의 실시간 시스템 아키텍처**, **OpenCV·HALCON 기반의 고정밀 영상 처리**, 그리고 **TensorRT/ONNX 기반 AI 추론 최적화**까지 종합적으로 고려한 안정적인 비전 애플리케이션을 구축합니다.
 
-- React·TypeScript 기반 웹 서비스 개발
-- Flutter·React Native 기반 모바일 앱 개발 및 배포
-- LLM Fine-tuning, LoRA, QLoRA, DPO 기반 모델 정렬 연구
-- C++·MFC·HALCON 기반 산업용 Vision SW 개발
-- API, 상태 관리, 데이터 검증, 배포 환경을 고려한 서비스 구현
+- **Computer Vision & Image Processing**: OpenCV, HALCON, Watershed, Distance Transform, Shape Descriptors
+- **AI & Deep Learning Optimization**: YOLO, LightSVTR, Custom CNN, ONNX Runtime, TensorRT (FP16/INT8)
+- **Vision SW Engineering**: C++ (MFC), C# (.NET 8 WPF, MVVM), Async Pipelines, Memory Management (Mat/Resource)
+- **Extended Technical Background**: Python (PyTorch, LLM Alignment), React/TypeScript, Flutter, FastAPIs
 
 ---
 
@@ -41,137 +40,112 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### JobTalk
+### Micro-pipette Detection & Hybrid OCR
+**마이크로 피펫 객체 탐지 및 OCR 최적화 시스템**
 
-**외국인 구직자를 위한 다국어 구인구직·커뮤니티 플랫폼**
+- YOLO 및 Custom CNN + PaddleOCR 하이브리드 모델 구축
+- 데이터 수집부터 모델 학습, ONNX Runtime 및 TensorRT 변환 전 과정 수행
+- TensorRT FP16/INT8 엔진 최적화를 통한 **추론 지연시간 단축 (300ms → 80ms, 73% 감소)**
 
-- React·TypeScript 기반 프론트엔드 개발
-- TanStack Query와 Zustand를 활용한 서버·클라이언트 상태 분리
-- i18next 기반 다국어 UI 구현
-- Kakao Map API 기반 위치·기업 정보 제공
-- Ollama와 FastAPI를 활용한 AI 번역 구조 제안 및 구축
-
-**Tech**
-
-`React` `TypeScript`  
-`TanStack Query` `Zustand`  
-`i18next` `FastAPI` `Ollama`
+**Tech**  
+`Python` `C++` `YOLO` `Custom CNN`  
+`ONNX Runtime` `TensorRT` `CUDA`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Geumpumta
+### SEM Particle Analyzer
+**SEM 미세입자 검출 및 정량 분석 데스크톱 솔루션**
 
-**대학생 학습 시간 기록 및 랭킹 기반 동기부여 플랫폼**
+- OpenCvSharp 기반 미세입자 자동 검출 및 형상 정량 분석 애플리케이션
+- Distance Transform 기반 **Watershed 알고리즘을 적용한 접촉 입자 분리 파이프라인** 구현
+- 픽셀-실길이 Calibration, 형상 지표 산출, MVVM 비동기 아키텍처 및 34개 단위 테스트 검증
 
-- Flutter 기반 Android·iOS 앱 개발
-- Google Play·App Store 양대 마켓 배포
-- OAuth, FCM, 학교 Wi-Fi 인증 기능 구현
-- 서버 시간과 오프셋을 활용한 학습 시간 검증 구조 설계
-- 실제 운영 환경을 고려한 상태 관리와 사용자 흐름 개선
-
-**Tech**
-
-`Flutter` `Dart` `Riverpod`  
-`OAuth` `FCM`
+**Tech**  
+`C#` `.NET 8` `WPF` `OpenCvSharp`  
+`MVVM` `xUnit` `Async/CancellationToken`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### LLM Alignment Research
+### Video 7-Segment OCR System
+**시간축 이상치 보정이 적용된 영상 기반 계기판 OCR**
 
-**Instruction-Tuned 언어모델에서 DPO의 효과와 한계 분석**
+- LightSVTR OCR 모델 연동, ONNX Runtime, CTC Greedy Decoding 후처리 구현
+- LED 플리커 및 조명 변화 대응을 위한 **인접 프레임 재분석 기반 시간축 이상치 보정 로직** 개발
+- Clean Architecture 기반 Domain/Application/Infrastructure/UI 계층 분리
 
-- Gemma 기반 SFT·DPO 실험 설계
-- LoRA·QLoRA 기반 경량 Fine-tuning
-- 공개 한국어 데이터와 생성 데이터를 활용한 학습 데이터 구축
-- 자동 평가와 LLM-as-a-Judge 기반 모델 비교
-- 정렬 수준과 선호도 데이터 품질에 따른 DPO 한계 분석
+**Tech**  
+`C#` `WPF` `OpenCvSharp` `LightSVTR`  
+`ONNX Runtime` `CTC Decoding` `Clean Architecture`
 
-**Tech**
+</td>
+<td width="50%" valign="top">
 
-`Python` `PyTorch` `Gemma`  
-`LoRA` `QLoRA` `DPO` `Unsloth`
+### Q-Log Analyzer & Vision System Utilities
+**비전 검사 장비 로그 정량 분석 및 산업용 MFC 제어 모듈**
+
+- 정규표현식 파싱 및 IQR 이상치 제거 통계 기반 장비 수율·불량 패턴·알고리즘 처리 시간 분석 도구
+- 실시간 카메라 제어, ROI 설정 및 Lot Variation 데이터 로깅을 위한 **산업용 C++ MFC 모듈 유지보수**
+
+**Tech**  
+`C#` `WPF` `C++` `MFC`  
+`Regex` `IQR Statistics` `Data Visualization`
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>더 많은 프로젝트 (Software & AI Research) 접기/열기</b></summary>
+<br/>
 
-## Experience
+- **LLM Alignment Research**: Gemma 기반 SFT/DPO 실험 및 4-bit QLoRA, Unsloth 기반 모델 정렬 분석
+- **JobTalk**: React·TypeScript 기반 외국인 구직자 다국어 구인구직 플랫폼 (FastAPI, Ollama 활용)
+- **Geumpumta**: Flutter 기반 대학생 학습 시간 기록 및 랭킹 서비스 (Google Play & App Store 배포)
 
-### Vision Software Researcher
-
-산업용 비전 검사 소프트웨어와 자동화 시스템을 개발하고 있습니다.
-
-- 이미지 처리 및 검사 알고리즘 분석
-- C++·MFC 기반 레거시 시스템 구조 분석
-- HALCON·OpenCV 기반 Vision 기능 구현
-- 검사 결과, 스레드, 데이터 흐름을 고려한 기능 개발
-- 기존 검사 시스템의 유지보수 및 개선
+</details>
 
 ---
 
 ## Tech Stack
 
-### Frontend & Mobile
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS_Modules-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-</p>
-
-### Backend & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</p>
-
-### AI & LLM
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/OCR-607D8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM-512DA8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Unsloth-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/QLoRA-F57C00?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-43A047?style=flat-square"/>
-</p>
-
-### Vision Software
+### Computer Vision & AI
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MFC-68217A?style=flat-square"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/HALCON-005EB8?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### Vision SW Engineering & Desktop Architecture
+
+<p>
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/MFC-68217A?style=flat-square"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square"/>
+</p>
+
+### Supplementary Engineering Skills
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -179,25 +153,10 @@
 ## Research & Awards
 
 ### Research
-
-#### Instruction-Tuned 언어모델에서 DPO의 효과와 한계에 대한 실험적 분석
-
-- Gemma 기반 SFT·DPO 비교
-- 4-bit QLoRA와 bfloat16 기반 학습
-- 약 7,000개의 SFT 데이터와 1,200개의 preference pair 활용
-- 200개 평가 데이터 기반 성능 비교
-- 자동 평가와 LLM-as-a-Judge를 활용한 모델 검증
-- 초기 정렬 수준과 preference 데이터 품질에 따른 DPO 적용 한계 분석
-
-#### 저속노화 도메인 특화 LLM Fine-tuning
-
-- 웹 기사·PDF 기반 비정형 데이터 수집 및 정제
-- 도메인 특화 Q&A 데이터셋 구축
-- Gemma·Unsloth·LoRA 기반 Fine-tuning
-- 블라인드 평가와 Hallucination 분석
+- **Instruction-Tuned 언어모델에서 DPO의 효과와 한계에 대한 실험적 분석**: Gemma 기반 SFT·DPO 비교, QLoRA 최적화, 선호도 데이터 품질 및 초기 정렬 수준에 따른 한계 분석
+- **저속노화 도메인 특화 LLM Fine-tuning**: 비정형 데이터 정제, Q&A 데이터셋 구축 및 Unsloth/LoRA 활용 Fine-tuning
 
 ### Awards
-
 | Year | Award |
 |---|---|
 | **2026** | **금상**, 한국정보기술학회 하계 대학생 논문경진대회 |
@@ -206,12 +165,11 @@
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=minwoo1119&show_icons=true&hide_border=true" height="155" alt="GitHub stats"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwoo1119&layout=compact&hide_border=true" height="155" alt="Top languages"/>
 
 </div>
@@ -226,15 +184,10 @@
 
 <details>
 <summary>GitAnimals</summary>
-
 <br/>
-
 <div align="center">
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minwoo1119&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/minwoo1119" width="700" alt="GitAnimals farm"/>
 </a>
-
 </div>
-
 </details>
