@@ -30,8 +30,6 @@
 
 ## Professional Projects
 
-> 현재 수행 중인 업무를 회사명 및 비공개 정보 없이 요약했습니다. 자세한 내용은 [포트폴리오](https://minwoo1119.github.io/its-minu/ko)를 참고해 주세요.
-
 ### Windows 기반 검사 소프트웨어 기능 개선 및 안정화
 
 - C++/MFC 기반 검사 기능, ROI 판정 조건 및 검사 결과 기록 로직 개선
@@ -54,23 +52,25 @@
 
 ### [SaSang (사상) — 사진으로 기록하는 여행 지도](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/17)
 
-<img src="https://img.shields.io/badge/Released-iOS%20%26%20Android-34C759?style=flat-square" alt="Released on iOS and Android" />
+<a href="https://apps.apple.com/us/app/%EC%82%AC%EC%83%81/id6806609419"><img src="https://img.shields.io/badge/App_Store-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="SaSang on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.sasang.app"><img src="https://img.shields.io/badge/Google_Play-Android-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="SaSang on Google Play" /></a>
 
 방문한 지역의 **실제 지도 경계 안을 여행 사진으로 채우는** 모바일 앱입니다. GIS 데이터를 모바일용 벡터 경로로 전처리하고, SVG ClipPath로 사진을 마스킹하는 커스텀 지도 렌더러를 구현했습니다. 로컬 저장과 지도 확대·이동 인터랙션을 지원합니다.
 
 `React Native` `Expo` `TypeScript` `react-native-svg` `Reanimated` `GIS`
 
-[App Store](https://apps.apple.com/us/app/%EC%82%AC%EC%83%81/id6806609419) · [Google Play](https://play.google.com/store/apps/details?id=com.sasang.app) · [Project Details](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/17)
+[Project Details](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/17)
 
 ### [Yesang (예상) — 경조사 금전·일정 관리](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/16)
 
-<img src="https://img.shields.io/badge/Released-iOS%20%26%20Android-34C759?style=flat-square" alt="Released on iOS and Android" />
+<a href="https://apps.apple.com/us/app/%EC%98%88%EC%83%81/id6768654211"><img src="https://img.shields.io/badge/App_Store-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="Yesang on the App Store" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.minwoo1119.yesang"><img src="https://img.shields.io/badge/Google_Play-Android-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Yesang on Google Play" /></a>
 
 축의금·부의금 등 경조사 내역을 사람, 이벤트, 거래 기록별로 관리하는 모바일 앱입니다. 서버 API와 로컬 SecureStore를 공통 도메인 인터페이스로 추상화해 **로그인·게스트 모드에서 동일한 사용자 흐름**을 제공하도록 설계했습니다.
 
 `React Native` `Expo Router` `TypeScript` `Zustand` `TanStack Query` `Zod`
 
-[App Store](https://apps.apple.com/us/app/%EC%98%88%EC%83%81/id6768654211) · [Google Play](https://play.google.com/store/apps/details?id=com.minwoo1119.yesang) · [Project Details](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/16)
+[Project Details](https://minwoo1119.github.io/its-minu/ko/computer-vision/projects/16)
 
 <details>
 <summary><b>Previously Released — 금품타 (Geumpumta)</b></summary>
@@ -133,13 +133,47 @@ C++/MFC 멀티스레드 영상 링 버퍼와 OpenCV를 활용해 연속 비디�
 
 ## Tech Stack
 
-| Area | Tools & Technologies |
-| --- | --- |
-| **Languages & Desktop** | `C++` `C#` `Python` `TypeScript` `Dart` `MFC` `WPF` `.NET` |
-| **Computer Vision & AI** | `OpenCV` `PyTorch` `ONNX Runtime` `TensorRT` `YOLO` `PatchCore` |
-| **Backend & Systems** | `FastAPI` `WebSocket` `SQLite` `PostgreSQL` `Docker` `Ollama` `Qdrant` |
-| **Web & Mobile** | `React` `Next.js` `React Native` `Expo` `Flutter` `Riverpod` |
-| **Engineering Practices** | `Git` `Multithreading` `Debugging` `MVVM` `Unit Testing` |
+### Software Engineering & Desktop
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MFC-68217A?style=flat-square" alt="MFC" />
+  <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Win32 API" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/MVVM-444444?style=flat-square" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Multithreading-444444?style=flat-square" alt="Multithreading" />
+</p>
+
+### Computer Vision & AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/HALCON-005EB8?style=flat-square" alt="HALCON" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/PatchCore-34495E?style=flat-square" alt="PatchCore" />
+</p>
+
+### Web, Mobile & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama" />
+</p>
 
 ## Research & Awards
 
